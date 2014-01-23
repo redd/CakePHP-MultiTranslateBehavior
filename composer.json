@@ -1,0 +1,14 @@
+{
+	"name": "redd/cakephp-multitranslate",
+	"type": "cakephp-plugin",
+	"description": "CakePHP MultiTranslate Behavior",
+	"keywords": ["cakephp","translate","form"],
+	"homepage": "https://github.com/redd/CakePHP-MultiTranslateBehavior",
+	"license": "MIT",
+	"require": {
+		"composer/installers": "*"
+	},
+	"extra": {
+		"installer-name": "MultiTranslate"
+	}
+}
